@@ -1,3 +1,5 @@
+# This file defines all ignored files for Git
+
 # Ignore bundler config
 /.bundle
 
